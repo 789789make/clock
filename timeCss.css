@@ -1,0 +1,40 @@
+body{
+	background-image: url('image/bg.png');
+	font: 50px;
+	background-size: cover;
+	
+}
+#div0 {
+	/*background-image: url('image/bg.png');*/
+	width: 400px;
+	height: 200px;
+	margin: 150px auto;
+    position:relative;
+    /*background-size: 100%,100%;	*/
+}
+#img1{  
+	width: 195px;
+	height: 42px;
+	position: absolute;
+	top:30px;
+	left: 100px;
+}
+#div1{
+	position: absolute;
+	top: 100px;
+	left: 22px;
+}
+#div2{
+	float: left;
+	position: absolute;
+	bottom: 10px;
+	left: 14px	;
+}
+#img2{
+	
+	
+}
+#img3{
+	margin-left: 15px;
+}
+	
